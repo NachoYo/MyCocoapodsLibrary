@@ -7,12 +7,14 @@
 //
 
 import UIKit
-
+import MyCocoapodsLibrary
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        let logger = Logger()
+        logger.printHola()
     }
 
     override func didReceiveMemoryWarning() {
