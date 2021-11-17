@@ -10,6 +10,6 @@ import Foundation
 public class Logger{
     public init(){}
     public func printHola(){
-        print("Hola")
+        print("Holaaa")
     }
 }
