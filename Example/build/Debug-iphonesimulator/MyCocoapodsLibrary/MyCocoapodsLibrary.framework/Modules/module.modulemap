@@ -1,0 +1,11 @@
+framework module MyCocoapodsLibrary {
+  umbrella header "MyCocoapodsLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module MyCocoapodsLibrary.Swift {
+    header "MyCocoapodsLibrary-Swift.h"
+    requires objc
+}

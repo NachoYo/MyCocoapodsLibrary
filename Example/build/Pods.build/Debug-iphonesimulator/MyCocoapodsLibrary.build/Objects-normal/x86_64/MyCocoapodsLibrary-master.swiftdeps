@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "2b5c7d5dac5b456402253794bcaaf54e42576a13e1bf7c28b42ff227eeae4e7b"
+build_start_time: [1637107620, 501648902]
+build_end_time: [1637107620, 544620037]
+inputs:
+  "/Users/lvinaspe/Documents/Ejemplos/MyCocoapodsLibrary/MyCocoapodsLibrary/Classes/Logger.swift": [1637107489, 241271495]
