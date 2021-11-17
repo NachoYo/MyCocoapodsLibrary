@@ -1,6 +1,7 @@
 version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
-options: "2b5c7d5dac5b456402253794bcaaf54e42576a13e1bf7c28b42ff227eeae4e7b"
-build_start_time: [1637107620, 501648902]
-build_end_time: [1637107620, 544620037]
+options: "e5ab5e9422a53ba45284d18bd4db99f7d23d5b063ef0ee7da37f5de7eaca9930"
+build_start_time: [1637110896, 807994842]
+build_end_time: [1637110897, 109331130]
 inputs:
-  "/Users/lvinaspe/Documents/Ejemplos/MyCocoapodsLibrary/MyCocoapodsLibrary/Classes/Logger.swift": [1637107489, 241271495]
+  "/Users/lvinaspe/Documents/Ejemplos/MyCocoapodsLibrary/MyCocoapodsLibrary/Classes/ExampleView.swift": [1637108907, 504046201]
+  "/Users/lvinaspe/Documents/Ejemplos/MyCocoapodsLibrary/MyCocoapodsLibrary/Classes/Logger.swift": [1637110889, 635859012]
